@@ -1,0 +1,9 @@
+@import 'mixVariables.scss'; // 변수, 믹스인을 제일 먼저 가져오기
+@import 'reset.scss';
+@import 'layout.scss';
+@import 'chat.scss';
+@import 'index.scss';
+@import 'chatList.scss';
+@import 'component.scss';
+
+// 컴파일 후 css파일 내 주석을 유지하려면 '//'대신 '/*  */'을 써야한다.
